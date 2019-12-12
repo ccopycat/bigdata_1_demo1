@@ -1,3 +1,7 @@
+  密钥获取
+ ssh-keygen -t rsa -C "账户"
+  
+
 git init 初始化一个本地仓库
 
 git clone url 克隆一个项目 https://github.com/flawingYg/bigdata_1_demo1.git
